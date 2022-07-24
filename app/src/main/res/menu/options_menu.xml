@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/aboutThisApp"
+        android:title="@string/option_about_app" />
+    <item
+        android:id="@+id/requestCameraPermission"
+        android:title="@string/option_camera_access" />
+    <item
+        android:id="@+id/showNotificationWithCurrentTime"
+        android:title="@string/option_show_notification" />
+    <item
+        android:id="@+id/showExampleAlert"
+        android:title="@string/show_example_alert" />
+</menu>

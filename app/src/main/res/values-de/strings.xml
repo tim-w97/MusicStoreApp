@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Musikladen-App</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="next">Weiter</string>
+    <string name="previous">Zurück</string>
+    <string name="cool_dev">Der Entwickler ist noch cooler als die App selbst.</string>
+    <string name="cool_app">Diese App ist mega cool</string>
+    <string name="address">Adresse</string>
+    <string name="contact">Kontakt</string>
+    <string name="about_app">Über diese App</string>
+    <string name="about_dev">Über den Entwickler</string>
+    <string name="your_city">Deine Stadt</string>
+    <string name="type_in">Gib\' eine Stadt ein:</string>
+    <string name="no_cities_found">Es wurden keine Musikgeschäfte zu dieser Stadt gefunden :(</string>
+    <string name="google_maps">In Google Maps ansehen</string>
+    <string name="maps_shortcut">Karte</string>
+    <string name="favourite_shop">Lieblingsladen</string>
+    <string name="option_about_app">Über diese App</string>
+    <string name="option_camera_access">Kamerazugriff erteilen</string>
+    <string name="option_show_notification">Benachrichtigung mit aktueller Uhrzeit anzeigen</string>
+    <string name="notification_text">Hier ist die aktuelle Uhrzeit</string>
+    <string name="show_example_alert">Dialog anzeigen</string>
+    <string name="neutral_button_text">Vielleicht</string>
+    <string name="dialog_text">Ich weiß nicht, was ich hier rein schreiben soll</string>
+    <string name="dialog_title">Beispiel-Dialog</string>
+</resources>

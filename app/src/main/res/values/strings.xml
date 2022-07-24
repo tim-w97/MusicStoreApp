@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Music Stores App</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="cool_dev">The developer is even cooler than the app</string>
+    <string name="cool_app">This app is very cool</string>
+    <string name="address">Address</string>
+    <string name="contact">Contact</string>
+    <string name="about_app">About this app</string>
+    <string name="about_dev">About the developer</string>
+    <string name="your_city">Your city</string>
+    <string name="type_in">Type in a city:</string>
+    <string name="no_cities_found">No music stores found for this city :(</string>
+    <string name="google_maps">Show in Google Maps</string>
+    <string name="maps_shortcut">Map</string>
+    <string name="favourite_shop">Favourite Shop</string>
+    <string name="option_about_app">About this app</string>
+    <string name="option_camera_access">Grant camera permission</string>
+    <string name="option_show_notification">Show notification with current time</string>
+    <string name="notification_text">Here is the current time</string>
+    <string name="show_example_alert">Show alert</string>
+    <string name="neutral_button_text">Maybe</string>
+    <string name="dialog_text">Two number nine, number six with extra dip.</string>
+    <string name="dialog_title">Exmaple Dialog</string>
+</resources>
